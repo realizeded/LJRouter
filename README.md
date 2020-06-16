@@ -24,7 +24,7 @@
             └─install.js
 
 ```
-
+* LJ-View组件(router-view)
 * LJ-Link组件(router-link)
 * hash模式,根据hash进行组件切换
 * history模式,通过replaceState、pushState来进行url切换,而不会重新发起请求,并且通过popState监听状态的变化(当你使用history.go使会触发)
